@@ -3,6 +3,7 @@ from app import app
 from models import db, Hero, Power, HeroPower
 
 
+
 class TestApp:
     '''Flask application in app.py'''
 
